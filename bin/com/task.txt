@@ -1,0 +1,32 @@
+
+EMPLOYEES:
+
+id
+name
+email
+password
+status
+joiningDate..
+gender
+BirthDate... MYSQL JAVA DATE --> 1985-14-06
+system time --> 2023-27-08
+
+
+
+CREATE CRUD OPERAITION [MENU DRIVEN....]
+
+
+1)1 for add
+2)2 delete..
+3).
+4).
+5)get employees who is active...
+6)find specific employee age:   u have to pass id ---> age -->
+7)find specific employee experiacne in our company...
+m8)login... email password   select * from employee where email = "" and password =""
+9)update all employee status to false who is male | female...
+10)delete all employee who have joined in year between 1995 to 2000
+
+
+
+
