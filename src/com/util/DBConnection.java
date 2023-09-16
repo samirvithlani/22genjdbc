@@ -9,7 +9,7 @@ public class DBConnection {
 	private final static String user = "root";
 	private final static String password = "root";
 	private final static String driverClass = "com.mysql.cj.jdbc.Driver";
-	private final static String connectionUrl = "jdbc:mysql://localhost:3306/22gen";
+	private final static String connectionUrl = "jdbc:mysql://localhost:3306/22jan";
 
 	public static Connection getDbConnection() {
 		Connection conn = null;
