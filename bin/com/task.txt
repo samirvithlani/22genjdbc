@@ -31,6 +31,19 @@ m8)login... email password   select * from employee where email = "" and passwor
 
 create table employee (eid int primary key auto_increment,ename varchar(30),eemail varchar(30),eage int);
 
+POJO
+	plain old java object
+BEAN
+	plain old java object
+	
+	1)all variable must be private... getters and setter function for all variable... and this class
+	 can implment or extend any other builtin or udf class or interface
+	 
+	all variable must be private... getters and setter function for all variable... and this class
+	 can not implment or extend any other builtin or udf class or interface
+	
+create table student(sid int primary key auto_increment,sname varchar(30),semail varchar(30),sage int);
+
 
 
 
